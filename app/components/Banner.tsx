@@ -10,7 +10,7 @@ const Banner = () => {
             Discover new latest <br/>collections
           </h1>
         </div>
-        <div className="w-1/3 h-1/3 relative aspect-video flex items-center">
+        <div className="sm:hidden md:w-1/3 h-1/3  relative aspect-video flex items-center">
           <Image
             src="/images/model.jpg"
             fill
