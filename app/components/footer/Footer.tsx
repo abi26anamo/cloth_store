@@ -33,7 +33,7 @@ const Footer = () => {
             <h3 className="text-base font-bold mb-2">About Us</h3>
             <p className="mb-2">
               Welcome to Ethio-Electronics, your source for cutting-edge
-              electronic products. We're dedicated to providing quality gadgets
+              electronic products. We are dedicated to providing quality gadgets
               and seamless shopping experiences. Explore our range of
               smartphones, laptops, audio gear, and smart home solutions, and
               join us in enhancing your digital lifestyle. Your satisfaction is
