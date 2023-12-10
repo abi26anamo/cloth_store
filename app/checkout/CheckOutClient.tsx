@@ -69,7 +69,7 @@ const CheckOutClient = () => {
   }, []);
 
   return (
-    <div className="w-3/4 pl-80">
+    <div className="w-full md:w-3/4 md:pl-80">
       {clientSecret && cartProducts && (
         <Elements options={options} stripe={stripePromise}>
           <CheckoutForm
