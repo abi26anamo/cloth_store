@@ -35,8 +35,11 @@ const NavBar = async () => {
             </div>
           </div>
         </Container>
-      </div>
-      <Categories/>
+      </div>      
+        <div className="hidden md:block">
+          <Categories />
+        </div>
+
     </div>
   );
 };
